@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sonal Yadav
 - 👀 I’m interested in ... Full Stack Development
-- 🌱 I’m currently learning ...React, Microservices
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...New features of Java8 and Java 11 and front end stack (React)
+- 💞️ I’m looking to collaborate on ...software development and provinding optimized solutions to complex problems
 - 📫 How to reach me ... Email : syadav00309@gmail.com
 
 <!---
